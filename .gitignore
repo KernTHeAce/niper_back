@@ -1,0 +1,13 @@
+.idea
+.vscode
+*.log
+*.log.*
+subsystems
+.venv
+.DS_Store
+*.pyc
+*/__pycache__/*
+.coverage
+.env
+.secrets/
+
